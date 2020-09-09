@@ -1,8 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Aslan Kautarov](https://up.htmlacademy.ru/htmlcss/29/user/18199).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Артур Трифонов](https://htmlacademy.ru/profile/wrgraff).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
